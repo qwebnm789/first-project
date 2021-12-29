@@ -11,3 +11,4 @@ print("statistics.mean(grades)", statistics.mean(grades))
 
 import random
 print("random.choice(students)", random.choice(students))
+print("^^")
